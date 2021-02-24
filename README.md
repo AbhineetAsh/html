@@ -2,9 +2,7 @@
 <!DOCTYPE html>
 <html>
   <head>
-    <title> 
-      "Lord Samuel Miller"
-    </title>
+    <title> Lord Samuel Miller </title>
   </head>
   <body>
     <h1> PRESS BIG RED BUTTON TO KILL CHINTU </h1>
